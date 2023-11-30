@@ -1,7 +1,2 @@
 {"level":"info","message":"Server Up"}
-{"level":"debug","message":"Usuario coder intentó acceder a la base de datos"}
-{"level":"info","message":"Server Up"}
-{"level":"info","message":"Server Up"}
-{"level":"info","message":"Server Up"}
-{"level":"info","message":"Server Up"}
-{"level":"info","message":"Server Up"}
+{"level":"error","message":"Usuario coder intentó acceder a la base de datos"}
